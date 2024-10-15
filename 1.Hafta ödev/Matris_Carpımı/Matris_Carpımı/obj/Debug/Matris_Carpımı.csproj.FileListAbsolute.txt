@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\vsual projeleri\Matris_Carpımı\Matris_Carpımı\bin\Debug\Matris_Carpımı.exe.config
+C:\Users\LENOVO\Desktop\vsual projeleri\Matris_Carpımı\Matris_Carpımı\bin\Debug\Matris_Carpımı.exe
+C:\Users\LENOVO\Desktop\vsual projeleri\Matris_Carpımı\Matris_Carpımı\bin\Debug\Matris_Carpımı.pdb
+C:\Users\LENOVO\Desktop\vsual projeleri\Matris_Carpımı\Matris_Carpımı\obj\Debug\Matris_Carpımı.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\vsual projeleri\Matris_Carpımı\Matris_Carpımı\obj\Debug\Matris_Carpımı.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\vsual projeleri\Matris_Carpımı\Matris_Carpımı\obj\Debug\Matris_Carpımı.exe
+C:\Users\LENOVO\Desktop\vsual projeleri\Matris_Carpımı\Matris_Carpımı\obj\Debug\Matris_Carpımı.pdb

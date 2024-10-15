@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\vsual projeleri\Asal_Toplam\Asal_Toplam\obj\Debug\Asal_Toplam.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\vsual projeleri\Asal_Toplam\Asal_Toplam\obj\Debug\Asal_Toplam.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\vsual projeleri\Asal_Toplam\Asal_Toplam\bin\Debug\Asal_Toplam.exe.config
+C:\Users\LENOVO\Desktop\vsual projeleri\Asal_Toplam\Asal_Toplam\bin\Debug\Asal_Toplam.exe
+C:\Users\LENOVO\Desktop\vsual projeleri\Asal_Toplam\Asal_Toplam\bin\Debug\Asal_Toplam.pdb
+C:\Users\LENOVO\Desktop\vsual projeleri\Asal_Toplam\Asal_Toplam\obj\Debug\Asal_Toplam.exe
+C:\Users\LENOVO\Desktop\vsual projeleri\Asal_Toplam\Asal_Toplam\obj\Debug\Asal_Toplam.pdb
+C:\Users\LENOVO\Desktop\1.Hafta ödev\Asal_Toplam\Asal_Toplam\bin\Debug\Asal_Toplam.exe.config
+C:\Users\LENOVO\Desktop\1.Hafta ödev\Asal_Toplam\Asal_Toplam\bin\Debug\Asal_Toplam.exe
+C:\Users\LENOVO\Desktop\1.Hafta ödev\Asal_Toplam\Asal_Toplam\bin\Debug\Asal_Toplam.pdb
+C:\Users\LENOVO\Desktop\1.Hafta ödev\Asal_Toplam\Asal_Toplam\obj\Debug\Asal_Toplam.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\1.Hafta ödev\Asal_Toplam\Asal_Toplam\obj\Debug\Asal_Toplam.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\1.Hafta ödev\Asal_Toplam\Asal_Toplam\obj\Debug\Asal_Toplam.exe
+C:\Users\LENOVO\Desktop\1.Hafta ödev\Asal_Toplam\Asal_Toplam\obj\Debug\Asal_Toplam.pdb

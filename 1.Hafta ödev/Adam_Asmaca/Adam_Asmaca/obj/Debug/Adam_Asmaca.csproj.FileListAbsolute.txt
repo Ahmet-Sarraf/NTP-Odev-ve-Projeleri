@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\vsual projeleri\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.exe.config
+C:\Users\LENOVO\Desktop\vsual projeleri\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.exe
+C:\Users\LENOVO\Desktop\vsual projeleri\Adam_Asmaca\Adam_Asmaca\bin\Debug\Adam_Asmaca.pdb
+C:\Users\LENOVO\Desktop\vsual projeleri\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\vsual projeleri\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\vsual projeleri\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.exe
+C:\Users\LENOVO\Desktop\vsual projeleri\Adam_Asmaca\Adam_Asmaca\obj\Debug\Adam_Asmaca.pdb
