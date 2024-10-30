@@ -1,0 +1,2 @@
+C:\Users\LENOVO\Desktop\2-3\5.Soru\5.Soru\obj\Debug\5.Soru.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\2-3\5.Soru\5.Soru\obj\Debug\5.Soru.csproj.CoreCompileInputs.cache

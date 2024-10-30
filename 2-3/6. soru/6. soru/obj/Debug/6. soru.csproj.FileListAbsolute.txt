@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\2-3\6. soru\6. soru\bin\Debug\_6.soru.exe.config
+C:\Users\LENOVO\Desktop\2-3\6. soru\6. soru\bin\Debug\_6.soru.exe
+C:\Users\LENOVO\Desktop\2-3\6. soru\6. soru\bin\Debug\_6.soru.pdb
+C:\Users\LENOVO\Desktop\2-3\6. soru\6. soru\obj\Debug\6. soru.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\2-3\6. soru\6. soru\obj\Debug\_6.soru.exe
+C:\Users\LENOVO\Desktop\2-3\6. soru\6. soru\obj\Debug\_6.soru.pdb
