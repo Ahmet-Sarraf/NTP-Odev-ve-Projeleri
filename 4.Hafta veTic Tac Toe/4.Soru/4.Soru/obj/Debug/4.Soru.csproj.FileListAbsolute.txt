@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\4.Hafta\4.Soru\4.Soru\bin\Debug\4.Soru.exe.config
+C:\Users\LENOVO\Desktop\4.Hafta\4.Soru\4.Soru\bin\Debug\4.Soru.exe
+C:\Users\LENOVO\Desktop\4.Hafta\4.Soru\4.Soru\bin\Debug\4.Soru.pdb
+C:\Users\LENOVO\Desktop\4.Hafta\4.Soru\4.Soru\obj\Debug\4.Soru.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\4.Hafta\4.Soru\4.Soru\obj\Debug\4.Soru.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\4.Hafta\4.Soru\4.Soru\obj\Debug\4.Soru.exe
+C:\Users\LENOVO\Desktop\4.Hafta\4.Soru\4.Soru\obj\Debug\4.Soru.pdb
