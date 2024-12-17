@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\7.HAfta\Kalıtım_ve_Polimorfizm\Kalıtım_ve_Polimorfizm\bin\Debug\Kalıtım_ve_Polimorfizm.exe.config
+C:\Users\LENOVO\Desktop\7.HAfta\Kalıtım_ve_Polimorfizm\Kalıtım_ve_Polimorfizm\bin\Debug\Kalıtım_ve_Polimorfizm.exe
+C:\Users\LENOVO\Desktop\7.HAfta\Kalıtım_ve_Polimorfizm\Kalıtım_ve_Polimorfizm\bin\Debug\Kalıtım_ve_Polimorfizm.pdb
+C:\Users\LENOVO\Desktop\7.HAfta\Kalıtım_ve_Polimorfizm\Kalıtım_ve_Polimorfizm\obj\Debug\Kalıtım_ve_Polimorfizm.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\7.HAfta\Kalıtım_ve_Polimorfizm\Kalıtım_ve_Polimorfizm\obj\Debug\Kalıtım_ve_Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\7.HAfta\Kalıtım_ve_Polimorfizm\Kalıtım_ve_Polimorfizm\obj\Debug\Kalıtım_ve_Polimorfizm.exe
+C:\Users\LENOVO\Desktop\7.HAfta\Kalıtım_ve_Polimorfizm\Kalıtım_ve_Polimorfizm\obj\Debug\Kalıtım_ve_Polimorfizm.pdb
