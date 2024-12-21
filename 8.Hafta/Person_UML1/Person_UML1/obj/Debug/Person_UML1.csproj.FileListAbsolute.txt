@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\8.Hafta\Person_UML1\Person_UML1\bin\Debug\Person_UML1.exe.config
+C:\Users\LENOVO\Desktop\8.Hafta\Person_UML1\Person_UML1\bin\Debug\Person_UML1.exe
+C:\Users\LENOVO\Desktop\8.Hafta\Person_UML1\Person_UML1\bin\Debug\Person_UML1.pdb
+C:\Users\LENOVO\Desktop\8.Hafta\Person_UML1\Person_UML1\obj\Debug\Person_UML1.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\8.Hafta\Person_UML1\Person_UML1\obj\Debug\Person_UML1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\8.Hafta\Person_UML1\Person_UML1\obj\Debug\Person_UML1.exe
+C:\Users\LENOVO\Desktop\8.Hafta\Person_UML1\Person_UML1\obj\Debug\Person_UML1.pdb
