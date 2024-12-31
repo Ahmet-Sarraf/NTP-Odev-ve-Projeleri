@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\8.Hafta\Market_Yonetim_Sistemi\Market_Yonetim_Sistemi\bin\Debug\Market_Yonetim_Sistemi.exe.config
+C:\Users\LENOVO\Desktop\8.Hafta\Market_Yonetim_Sistemi\Market_Yonetim_Sistemi\bin\Debug\Market_Yonetim_Sistemi.exe
+C:\Users\LENOVO\Desktop\8.Hafta\Market_Yonetim_Sistemi\Market_Yonetim_Sistemi\bin\Debug\Market_Yonetim_Sistemi.pdb
+C:\Users\LENOVO\Desktop\8.Hafta\Market_Yonetim_Sistemi\Market_Yonetim_Sistemi\obj\Debug\Market_Yonetim_Sistemi.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\8.Hafta\Market_Yonetim_Sistemi\Market_Yonetim_Sistemi\obj\Debug\Market_Yonetim_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\8.Hafta\Market_Yonetim_Sistemi\Market_Yonetim_Sistemi\obj\Debug\Market_Yonetim_Sistemi.exe
+C:\Users\LENOVO\Desktop\8.Hafta\Market_Yonetim_Sistemi\Market_Yonetim_Sistemi\obj\Debug\Market_Yonetim_Sistemi.pdb
